@@ -84,6 +84,7 @@ body{
     animation-name:addPadding !important;
     animation-iteration-count: infinite;
     animation-duration: 1s !important;
+    z-index: 2;
 }
 
 @keyframes addPadding{
